@@ -1,5 +1,6 @@
 version: STSv1
 mode: enforce
 mx: *.mail.protection.outlook.com
-mx: *.google.com
+mx: aspmx.l.google.com
+mx: alt*.google.com
 max_age: 604800
