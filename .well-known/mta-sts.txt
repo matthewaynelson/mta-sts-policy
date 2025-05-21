@@ -4,3 +4,4 @@ mx: *.mail.protection.outlook.com
 mx: aspmx.l.google.com
 mx: alt*.google.com
 max_age: 604800
+# Trigger redeploy at Cloudflare
